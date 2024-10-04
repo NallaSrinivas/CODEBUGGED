@@ -4,6 +4,7 @@ This project is a machine learning pipeline for predicting store sales using the
 
 ## Requirements
 To run the code, you need to have the following dependencies installed:
+{ 
   Python 3.x
   pandas
   numpy
@@ -12,3 +13,4 @@ To run the code, you need to have the following dependencies installed:
   lightgbm
   matplotlib
   seaborn
+}
